@@ -1,6 +1,13 @@
 <div align="center">
 
-![Jabali Panel](panel-ui/public/images/jabali_logo_dark.png#gh-dark-mode-only)![Jabali Panel](panel-ui/public/images/jabali_logo.png#gh-light-mode-only)
+<p>
+  <a href="#gh-light-mode-only">
+    <img src="panel-ui/public/images/jabali_logo.png" alt="Jabali Panel" width="420">
+  </a>
+  <a href="#gh-dark-mode-only">
+    <img src="panel-ui/public/images/jabali_logo_dark.png" alt="Jabali Panel" width="420">
+  </a>
+</p>
 
 # Jabali Panel
 
