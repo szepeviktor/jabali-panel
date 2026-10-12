@@ -1,8 +1,8 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="panel-ui/public/images/jabali_logo_dark.png">
-    <img src="panel-ui/public/images/jabali_logo.png" alt="Jabali Panel" width="420">
+    <img src="panel-ui/public/images/jabali_logo.png#gh-light-mode-only" alt="Jabali Panel" width="420">
+    <img src="panel-ui/public/images/jabali_logo_dark.png#gh-dark-mode-only" alt="Jabali Panel" width="420">
   </picture>
 
 # Jabali Panel
