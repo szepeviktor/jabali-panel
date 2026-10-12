@@ -1,9 +1,6 @@
 <div align="center">
 
-  <picture>
-    <img src="panel-ui/public/images/jabali_logo.png#gh-light-mode-only" alt="Jabali Panel" width="420">
-    <img src="panel-ui/public/images/jabali_logo_dark.png#gh-dark-mode-only" alt="Jabali Panel" width="420">
-  </picture>
+![Jabali Panel](panel-ui/public/images/jabali_logo_dark.png#gh-dark-mode-only)![Jabali Panel](panel-ui/public/images/jabali_logo.png#gh-light-mode-only)
 
 # Jabali Panel
 
